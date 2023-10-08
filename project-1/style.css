@@ -1,0 +1,15 @@
+#search {
+padding: 10px;
+width: 30%;
+margin: auto;
+}
+#suggestion-area {
+border: 1px solid red;
+margin-top: 10px;
+min-height: 100px;
+padding: 10px;
+position: relative;
+display: none;
+width: 30%;
+/* margin: auto; */
+}

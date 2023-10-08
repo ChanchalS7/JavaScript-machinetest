@@ -1,0 +1,5 @@
+// Create an Auto Suggestion Box in Vanilla JS
+// Create a suggestion area bottom to the input box that shows the suggestion list.
+// The list is visible when the input box is in focus or when user types, it hides when the input box is blurred
+// getSuggestions(text); method will act as mock server and will return random text based on the inputs with 0 - 200 millisceond latency and may fail.
+// if a suggestion is clicked, populate the input box with its value and bring input box in focus
